@@ -1,0 +1,6 @@
+2984 a legnagyobb
+2037 a legkissebb
+True 
+1 
+6 
+28916 az összege

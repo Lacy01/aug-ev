@@ -1,0 +1,8 @@
+41 a legnagyobb
+23 a legkissebb
+False 
+29 
+10 
+18 a hõingadozás
+942 az átlag hõmérséklet
+30 a hõmérséklet 20.-án
